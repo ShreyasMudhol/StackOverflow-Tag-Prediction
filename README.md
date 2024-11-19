@@ -1,7 +1,11 @@
 # StackOverflow-Tag-Prediction
 
-### Description
+## Description
 Stack Overflow is the largest and most trusted online community for developers to learn, share knowledge, and advance their careers. Each month, over 50 million developers use the platform to seek answers and contribute insights across a wide range of programming topics.
+
+## Demo
+https://github.com/user-attachments/assets/534b17f0-9bec-42b6-9b61-2025b207dfa9
+
 
 ### Problem Statemtent
 Suggest tags based on the content of questions posted on Stack Overflow.
@@ -75,5 +79,3 @@ F1 = 2 * (precision * recall) / (precision + recall)
 • F1 score - 0.7165
 ## Result
 ![Screenshot 2024-10-31 091848](https://github.com/user-attachments/assets/fd371481-96d5-4565-871a-2116be14fce4)
-
-https://github.com/user-attachments/assets/6b68908d-905e-4575-a63b-0988c031021f
